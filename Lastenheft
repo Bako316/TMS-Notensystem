@@ -1,0 +1,26 @@
+Lastenheft
+
+Entstehung
+Wir als Thomas-Mann-Schule haben mit Schülern und Lehrern, für uns ideale, Anforderungen gesammelt, welche wir im Namen der Schule vorstellen werden. Diese Anfrage beruht darauf,
+dass eine Lücke in der Kommunikation über Noten für die Mitarbeit, Referate, Hausaufgaben und Klausuren festgestellt wurde, denn es fehlt den Schülern an Wissen über ihren genauen aktuellen Stand der Leistungen.
+
+Erwartungen
+Wir erwarten ein Programm, welches eine einfachere Kommunikation über das Interface ermöglichen würde. Zusätzlich würde es eine Stunde pro Halbjahr an mündlicher Notenbesprechung ersparen.
+Im Allgemeinen erhofft sich die Schule von dem Programm einen kontinuierlichen Austausch der Noten zwischen Schülern und Lehrern. Natürlich geht damit ein benutzerfreundliches Interface auf einer Website und verschlüsselte Zugänge einher.
+
+Im Detail
+Im Folgenden beschreibt die Schule ihre Ideen und Überlegungen. Wie realisierbar diese Anforderungen im Vergleich zu dem Aufwand und dem Ende des Auftrags umsetzbar sind, kann bei Bedarf in einem Meeting besprochen werden.
+Das Programm sollte über zwei Benutzertypen verfügen, welche unterschiedliche Zugänge, Ansichten und Bearbeitungsmöglichkeiten haben: Lehrer und Schüler. Folgende Navigationsoptionen können durch den Lehrer ausgewählt werden:
+Mündliche Leistungen, Schriftliche Leistungen und Klassenübersicht. Alle Übersichten werden nur durch den Lehrer bearbeitet. Der Schüler hat also lediglich eine Feedbackmöglichkeit und kann seine Noten visualisiert betrachten.
+Zusätzlich sollten die Noten für einzelne Stunden detailliert betrachtet werden können. Die Schüler äußerten den Wunsch, dass der Graph der ganzen Klasse anonym die eigene Leistung mit der Klasse vergleicht.
+Eigene Ideen ihrerseits sind gerne gesehen und gewünscht, wenn es ihnen, den Schülern oder den Lehrkräften hilft. Das Design sollte dezent und schlicht gestaltet sein, jedoch nicht blank.
+Was die Sicherheit angeht ist natürlich ein hohes Maß an Privatsphäre und Diskretion geboten, denn Manipulation oder sonstige Eingriffe sollten präventiv verhindert werden. Dies ist das oberste Gebot, was es zu erfüllen gilt.
+Wir würden individuelle Passwörter für jeden Benutzer vorschlagen, welche zufällig generiert werden, was die Sicherheit garantiert. Auch hier sind wir als Schule keine Experten und hören uns gerne andere Vorschläge und Ideen an.
+
+Verwaltung durch Administrator
+Der Administrator dient zum Verwalten der Benutzer und sollte das Programm sowie alle erdenklichen Features und den Code bearbeiten können. Passwörter sowie Benutzer werden durch diesen verwaltet und er verfügt über die Permission zum Löschen,
+Ändern und Hinzufügen. Zusätzlich sollte er auch einen Zugriff zu allen Interfaces haben, die es auf der Website gibt.
+
+Ergänzungen
+Hier lassen sich Ideen finden, welche lediglich als Paralipomena, welche zusätzlich umgesetzt werden können und damit keinesfalls Pflicht sind. Weitere Erleichterungen wären hilfreiche und zeitsparende Datenbanken,
+welche die Inhalte der Zeugnisse aktuell zusammenfassen. Zum Beispiel einen Kalender, welcher Fehlstunden der Schüler aufzeigt.
